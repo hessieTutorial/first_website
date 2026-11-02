@@ -13,7 +13,7 @@ export const HeroSection: React.FC = () => {
       <div className="max-w-[1240px] mx-auto text-center">
         {/* Main Heading — Exactly 2 lines at desktop */}
         <h1 className="text-[34px] sm:text-[42px] md:text-[48px] font-extrabold text-[#17152C] tracking-tight leading-[1.08] max-w-[700px] mx-auto">
-          Simplify Task Management<br className="hidden sm:inline" /> Boost Productivity
+          Vibecoding your first website<br className="hidden sm:inline" /> with Abiodun
         </h1>
 
         {/* Supporting Description */}
